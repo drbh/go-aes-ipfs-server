@@ -1,0 +1,5 @@
+.DS_STORE
+deprc/*
+keyfiles/*
+aes-ipfs
+prod.sh
